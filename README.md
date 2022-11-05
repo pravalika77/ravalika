@@ -1,2 +1,0 @@
-# ravalika
-app
